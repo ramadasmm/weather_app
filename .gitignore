@@ -55,6 +55,7 @@ analysis_benchmark.json
 .pub/
 build/
 flutter_*.png
+windows/
 linked_*.ds
 unlinked.ds
 unlinked_spec.ds
